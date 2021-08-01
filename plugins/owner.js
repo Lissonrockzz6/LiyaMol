@@ -24,11 +24,11 @@ Asena.addCommand({pattern: 'owner', fromMe: false, desc: Lang.WP}, (async (messa
 
 *owner number wa.me/919072328290*
 
-*githublink       https://github.com/saidalisaid2/LiyaMol*
+*githublink    *
 
-*audio commads    https://github.com/saidalisaid2/LiyaMol/tree/master/uploads*
+*audio *
 
-*sticker commads  https://github.com/saidalisaid2/LiyaMol/tree/master/stickers*
+*sticker commads  *
 
 `}) 
 
